@@ -1,6 +1,10 @@
 programa {
   funcao inicio() {
- 
+
+    // Exercicio 1:
+    // Dado um vetor contendo 10 números inteiros não ordenados, construa um algoritmo que consiga 
+    // ordenar o vetor em ordem decrescente.
+  
     inteiro vetor[] = {3, 2, 5, 1, 4, 8, 6, 9, 7, 10}
     inteiro i, aux, trocou = 1
  
