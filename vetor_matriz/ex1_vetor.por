@@ -26,7 +26,7 @@ programa {
   }
 
   escreva ("\n\nO vetor após a ordenação: ")
-    para (i = 0; i < 10; i++){
+    para (i == 10; i >= 0; i--){
     escreva (vetor[i], " ")
     }
   }
